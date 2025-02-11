@@ -1,0 +1,10 @@
+[
+  {
+    "text": "Pay bills",
+    "completed": false
+  },
+  {
+    "text": "Grocery shopping",
+    "completed": true
+  }
+]
