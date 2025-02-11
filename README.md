@@ -26,3 +26,14 @@ go build -o todo main.go
 ./todo help
 ```
 
+## Testing
+
+```bash
+go test
+```
+
+## Coverage
+
+```bash
+go test -cover
+```
